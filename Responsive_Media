@@ -1,27 +1,55 @@
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px){
- 
-}
+@media only screen and (min-width:240px) and (max-width:319px) {}
 
-@media only screen and (min-device-width: 320px) and (max-device-width: 568px){
+@media only screen and (max-width:320px) {}
 
-}
+@media only screen and (max-width:360px) {}
 
-@media only screen and (min-device-width: 375px) and (max-device-width: 667px){
+@media only screen and (min-device-width:320px) and (max-device-width:480px) {}
 
-}
+@media only screen and (min-device-width:320px) and (max-device-width:568px) {}
 
-@media only screen and (min-device-width: 414px) and (max-device-width: 736px){
+@media only screen and (min-width:320px) and (max-width:767px) {}
 
-}
+@media only screen and (min-width:320px) and (max-width:640px) {}
 
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px){
+@media only screen and (min-device-width:375px) and (max-device-width:667px) {}
 
-}
+@media only screen and (max-width:380px) {}
 
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px){
+@media screen and (device-width:384px) and (device-height:640px) {}
 
-}
+@media only screen and (min-device-width:412px) and (max-device-width:732px) {}
 
-@media only screen and (max-width: 1169px) and (min-width: 980px){
+@media only screen and (min-device-width:414px) and (max-device-width:736px) {}
 
-}
+@media only screen and (min-device-width:414px)and (max-device-width:736px) {}
+
+@media screen and (device-width:601px) and (device-height:906px) {}
+
+@media only screen and (max-width:720px) {}
+
+@media only screen and (min-width:768px) and (max-width:800px) {}
+
+@media only screen and (min-width:768px) and (max-width:980px) {}
+
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) {}
+
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:landscape) {}
+
+@media only screen and (min-device-width:768px)and (max-device-width:1024px)and (orientation:portrait) {}
+
+@media only screen and (max-width:980px) {}
+
+@media only screen and (min-width:981px) and (max-width:1033px) {}
+
+@media only screen and (min-width:981px) and (max-width:1199px) {}
+
+@media only screen and (min-width:981px) and (max-width:1230px) {}
+
+@media only screen and (max-width:1024px) {}
+
+@media only screen and (min-device-width:1025px) and (max-device-width:1199px) {}
+
+@media only screen and (max-width:1080px) {}
+
+@media only screen and (max-width:1280px) {}
